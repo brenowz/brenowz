@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="ulquiorra.jpeg" width="180" alt="Ulquiorra Pixel Art">
+  <img src="ulquiorraa.png" width="180" alt="Ulquiorra Pixel Art">
 </p>
 
 <hr>
