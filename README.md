@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Breno Barros</h1>
 
-<!--
-**brenowz/brenowz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Software Development • Python • Back-end • Automation
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="ulquiorra.png" width="180" alt="Ulquiorra Pixel Art">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+<h3>Technologies</h3>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql&theme=dark">
+</p>
+
+<hr>
+
+<h3>Contact</h3>
+
+<p>
+  <a href="mailto:SEU_EMAIL">
+    <img src="https://img.shields.io/badge/GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="SEU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="SEU_DISCORD">
+    <img src="https://img.shields.io/badge/DISCORD-111111?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+</p>
