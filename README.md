@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="ulquiorra.png" width="180" alt="Ulquiorra Pixel Art">
+  <img src="ulquiorra.jpeg" width="180" alt="Ulquiorra Pixel Art">
 </p>
 
 <hr>
@@ -21,15 +21,15 @@
 <h3>Contact</h3>
 
 <p>
-  <a href="mailto:SEU_EMAIL">
+  <a href="mailto:brenoasbarros@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
-  <a href="SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/brenobarrosdev/">
     <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="SEU_DISCORD">
+  <a href="https://discord.com/users/498185941689696266">
     <img src="https://img.shields.io/badge/DISCORD-111111?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
