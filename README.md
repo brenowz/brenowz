@@ -1,12 +1,12 @@
+<img align="right" src="ulq.png" width="160" alt="Ulquiorra Pixel Art">
+
 <h1 align="center">Breno Barros</h1>
 
 <p align="center">
   Software Development • Python • Back-end • Automation
 </p>
 
-<p align="center">
-  <img src="ulquiorraa.png" width="180" alt="Ulquiorra Pixel Art">
-</p>
+<br>
 
 <hr>
 
@@ -33,3 +33,5 @@
     <img src="https://img.shields.io/badge/DISCORD-111111?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
+
+<br clear="both">
