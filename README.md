@@ -8,7 +8,7 @@
 
 <br>
 
-<hr>
+
 
 <h3>Technologies</h3>
 
