@@ -1,4 +1,4 @@
-<img align="right" src="ulq.png" width="160" alt="Ulquiorra Pixel Art">
+
 
 <h1 align="center">Breno Barros</h1>
 
