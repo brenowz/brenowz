@@ -59,26 +59,15 @@
 
 ---
 
-### GitHub Stats
+### Technologies Used
 
-<table>
-  <tr>
-    <td width="50%">
-      <img
-        width="100%"
-        src="https://github-readme-stats-multiuser.vercel.app/api?usernames=brenowz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
-        alt="GitHub Statistics"
-      />
-    </td>
-    <td width="50%">
-      <img
-        width="100%"
-        src="https://github-readme-stats-multiuser.vercel.app/api/top-langs/?usernames=brenowz&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=4"
-        alt="Top Languages"
-      />
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img
+    width="60%"
+    src="https://github-readme-stats-multiuser.vercel.app/api/top-langs/?usernames=brenowz&theme=transparent&layout=compact&custom_title=Most%20Used%20Languages&langs_count=4"
+    alt="Top Languages"
+  />
+</p>
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
