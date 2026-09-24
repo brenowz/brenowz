@@ -19,11 +19,11 @@
     />
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/YOUR_TWITTER">
+  <a href="https://x.com/YOUR_X_HANDLE">
     <img
-      alt="Twitter"
-      title="Follow me on Twitter"
-      src="https://custom-icon-badges.demolab.com/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+      alt="X"
+      title="Follow me on X"
+      src="https://custom-icon-badges.demolab.com/badge/%E3%85%A4_X_%E3%85%A4-000000?style=for-the-badge&logo=x&logoColor=white"
     />
   </a>
   &nbsp;&nbsp;
