@@ -1,36 +1,36 @@
-#  Breno Barros
+# Breno Barros
 
 **`Software Engineer | Backend & Data Automation | Python • FastAPI • SQL`**
 
 <p align="left">
-  <a href="mailto:SEU_EMAIL@gmail.com">
+  <a href="mailto:YOUR_EMAIL@gmail.com">
     <img
       alt="Gmail"
-      title="Contacte-me por Email"
+      title="Contact me via Email"
       src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
     <img
       alt="LinkedIn"
-      title="Siga-me no LinkedIn"
+      title="Follow me on LinkedIn"
       src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/SEU_TWITTER">
+  <a href="https://twitter.com/YOUR_TWITTER">
     <img
       alt="Twitter"
-      title="Siga-me no Twitter"
+      title="Follow me on Twitter"
       src="https://custom-icon-badges.demolab.com/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
     />
   </a>
   &nbsp;&nbsp;
-  <a href="https://discord.com/users/SEU_ID_DISCORD">
+  <a href="https://discord.com/users/YOUR_DISCORD_ID">
     <img
       alt="Discord"
-      title="Adicione-me no Discord"
+      title="Add me on Discord"
       src="https://custom-icon-badges.demolab.com/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
     />
   </a>
@@ -38,7 +38,7 @@
 
 ---
 
-###  Linguagens e Tecnologias
+### Languages and Technologies
 
 <table>
   <tr>
@@ -59,26 +59,27 @@
 
 ---
 
-###  Estatísticas
+### GitHub Stats
 
 <table>
   <tr>
     <td width="50%">
       <img
         width="100%"
-        src="https://github-readme-stats-multiuser.vercel.app/api?usernames=brenowz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-        alt="Estatísticas do GitHub"
+        src="https://github-readme-stats-multiuser.vercel.app/api?usernames=brenowz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en"
+        alt="GitHub Statistics"
       />
     </td>
     <td width="50%">
       <img
         width="100%"
-        src="https://github-readme-stats-multiuser.vercel.app/api/top-langs/?usernames=brenowz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4"
-        alt="Tecnologias mais utilizadas"
+        src="https://github-readme-stats-multiuser.vercel.app/api/top-langs/?usernames=brenowz&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=4"
+        alt="Top Languages"
       />
     </td>
   </tr>
 </table>
+
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
