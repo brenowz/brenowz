@@ -1,37 +1,84 @@
+# 👨🏻‍💻 Breno Barros
 
+**`Software Engineer | Backend & Data Automation | Python • FastAPI • SQL`**
 
-<h1 align="center">Breno Barros</h1>
+<p align="left">
+  <a href="mailto:SEU_EMAIL@gmail.com">
+    <img
+      alt="Gmail"
+      title="Contacte-me por Email"
+      src="https://custom-icon-badges.demolab.com/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN/">
+    <img
+      alt="LinkedIn"
+      title="Siga-me no LinkedIn"
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/SEU_TWITTER">
+    <img
+      alt="Twitter"
+      title="Siga-me no Twitter"
+      src="https://custom-icon-badges.demolab.com/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/SEU_ID_DISCORD">
+    <img
+      alt="Discord"
+      title="Adicione-me no Discord"
+      src="https://custom-icon-badges.demolab.com/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"
+    />
+  </a>
+</p>
 
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<table>
+  <tr>
+    <td>
+      <img width="30px" alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+    </td>
+    <td>
+      <img width="30px" alt="FastAPI" title="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/>
+    </td>
+    <td>
+      <img width="30px" alt="SQL" title="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+    </td>
+    <td>
+      <img width="30px" alt="n8n" title="n8n" src="https://cdn.simpleicons.org/n8n/EA4B71"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Estatísticas
+
+<table>
+  <tr>
+    <td width="50%">
+      <img
+        width="100%"
+        src="https://github-readme-stats-multiuser.vercel.app/api?usernames=brenowz&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+        alt="Estatísticas do GitHub"
+      />
+    </td>
+    <td width="50%">
+      <img
+        width="100%"
+        src="https://github-readme-stats-multiuser.vercel.app/api/top-langs/?usernames=brenowz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4"
+        alt="Tecnologias mais utilizadas"
+      />
+    </td>
+  </tr>
+</table>
 <p align="center">
-  Software Development • Python • Back-end • Automation
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
-
-<br>
-
-
-
-<h3>Technologies</h3>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,mysql&theme=dark">
-</p>
-
-<hr>
-
-<h3>Contact</h3>
-
-<p>
-  <a href="mailto:brenoasbarros@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-111111?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-
-  <a href="https://www.linkedin.com/in/brenobarrosdev/">
-    <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="https://discord.com/users/498185941689696266">
-    <img src="https://img.shields.io/badge/DISCORD-111111?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-</p>
-
-<br clear="both">
