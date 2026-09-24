@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Breno Barros
+#  Breno Barros
 
 **`Software Engineer | Backend & Data Automation | Python • FastAPI • SQL`**
 
@@ -38,7 +38,7 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+###  Linguagens e Tecnologias
 
 <table>
   <tr>
@@ -59,7 +59,7 @@
 
 ---
 
-### 📊 Estatísticas
+###  Estatísticas
 
 <table>
   <tr>
