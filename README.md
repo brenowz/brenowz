@@ -3,7 +3,7 @@
 **`Software Engineer | Backend & Data Automation | Python • FastAPI • SQL`**
 
 <p align="left">
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:brenoasbarros@gmail.com">
     <img
       alt="Gmail"
       title="Contact me via Email"
@@ -11,7 +11,7 @@
     />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/brenobarrosdev/">
     <img
       alt="LinkedIn"
       title="Follow me on LinkedIn"
@@ -27,7 +27,7 @@
     />
   </a>
   &nbsp;&nbsp;
-  <a href="https://discord.com/users/YOUR_DISCORD_ID">
+  <a href="https://discord.com/users/498185941689696266">
     <img
       alt="Discord"
       title="Add me on Discord"
