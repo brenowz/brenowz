@@ -46,13 +46,13 @@
       <img width="30px" alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
     </td>
     <td>
-      <img width="30px" alt="SQLite" title="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
-    </td>
-    <td>
       <img width="30px" alt="FastAPI" title="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"/>
     </td>
     <td>
-      <img width="30px" alt="SQL" title="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
+      <img width="30px" alt="SQLite" title="SQLite" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
+    </td>
+    <td>
+      <img width="30px" alt="PostgreSQL" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
     </td>
     <td>
       <img width="30px" alt="n8n" title="n8n" src="https://cdn.simpleicons.org/n8n/EA4B71"/>
