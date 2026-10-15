@@ -1,6 +1,6 @@
 # Breno Barros
 
-**`Software Engineer | AI Engineer | Backend & Data Automation | Python • FastAPI • SQL`**
+**`Backend & AI Engineering | Python, FastAPI, SQL & n8n`**
 
 <p align="left">
   <a href="mailto:brenoasbarros@gmail.com">
